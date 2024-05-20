@@ -1,6 +1,6 @@
 Add STL files for Hand and Thumb Assembly
 
-- Assembly Hand v17.stl: Hand Assembly
+- Assembly Hand v18.stl: Hand Assembly
 - Thumb Module v22.stl: Assembly of Thumb
 
 For making the thumb:
