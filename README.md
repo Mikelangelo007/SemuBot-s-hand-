@@ -46,3 +46,7 @@ PLA has been used for 3D printing
 - For Arduino Nano, the code is in the "sketch_dec16b.ino" file.
 
 Refer to the images "image.png" and "image2 (2).jpeg" for visual guidance.
+
+
+
+Elchin Huseynov
