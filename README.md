@@ -3,7 +3,7 @@ Add STL files for Hand and Thumb Assembly
 - Assembly Hand v18.stl: Hand Assembly
 - Thumb Module v22.stl: Assembly of Thumb
 
-For making the thumb:
+For making the thumb assembly:
 - Thumb Module - Connection to the Palm.stl
 - Lower Part Thumb v13.stl: with 3 bearings (2 on sides and on joint to the middle limb)
 - Middle Part Thumb v22.stl: with one bearing on joint to the upper limb
@@ -11,12 +11,12 @@ For making the thumb:
 
 For making other fingers assembly:
 
-Index Finger:
+Index Finger assembly:
 - Stand - others v7.stl
 - Lower - Middle Limb 4 - Updated v1.stl x 2
 - Upper Limb 1 - Index finger v1.stl
 
-Little Finger, Ring Finger, Middle Finger:
+Little Finger, Ring Finger, Middle Finger assemblies:
 - Lower - Middle Limb 4 - Updated v1.stl x 2 (for each finger)
 - Upper Limb 1 - Little finger - Latest v1.stl (for little finger)
 - Upper Limb 1 - Index finger v1.stl (for ring finger if it is a female hand)
