@@ -23,3 +23,6 @@ Little Finger, Ring Finger, Middle Finger assemblies:
 - Upper Limb 1 - Index finger v1.stl (for middle finger, but customization is possible)
 
 Note: The hand is modular and customizable. Different sizes of finger limbs do not prevent the hand from working, but the connections and holes for the tubes should be properly made and placed.
+In all of the fingers strings should be fixed to the finger tips from both sides. Strings must go through silicone tubes till the middle of lower limb. PTFE tubes are being connected to the Connection module of fingers by using hot glue. Then strings must go through PTFE tubes. Then Palm, Index finger assembly and "all the fingers connected to the connection module" assembly is getting assembled as shown in the "Assembly Hand v18.stl". 
+Note: PTFE tubes must go through the holes inside of the Palm and leave from the bottom of the palm to the forearm part.
+Then thumb assembly must be connected and after that motor's shell can be assembled. PTFE tubes are being glued to the motor's shell and strings are being connected to the same point of motors "Figure Copy v2.stl". 
