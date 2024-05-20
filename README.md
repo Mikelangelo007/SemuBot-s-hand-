@@ -1,5 +1,4 @@
-Add STL files for Hand and Thumb Assembly
-
+PLA has been used for 3D printing
 ### Hand Assembly
 - Assembly Hand v18.stl: Hand Assembly
 
