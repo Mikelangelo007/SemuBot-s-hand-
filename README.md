@@ -31,7 +31,7 @@ PLA has been used for 3D printing.
 - Palm, Index finger assembly, and "all the fingers connected to the connection module" assembly are assembled as shown in "Assembly Hand v18.stl".
 - PTFE tubes must go through the holes inside the palm and exit from the bottom of the palm to the forearm part. Then, the thumb assembly must be connected, and after that, the motor's shell can be assembled. PTFE tubes are glued to the motor's shell, and strings are connected to the same point of motors in "Figure Copy v2.stl".
 
-### Cost Breakdown
+# Cost Breakdown
 | Row | Material                           | Amount                        | Cost        |
 |-----|------------------------------------|-------------------------------|-------------|
 | 1   | PLA                                | 148.26 grams (without supports)| 4 euros     |
@@ -51,7 +51,7 @@ PLA has been used for 3D printing.
 | 15  | **Total**                          |                               | **84.7 euros** |
 | 16  | **Working hours**                  | Upmost 2 hours of Assembly    |             |
 
-### Code Scripts - Examples
+# Code Scripts - Examples
 - Example actuation codes are in the "Servo.py" file.
 - For Arduino Nano, the code is in the "sketch_dec16b.ino" file.
 
