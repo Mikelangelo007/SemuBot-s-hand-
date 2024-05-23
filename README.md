@@ -51,7 +51,7 @@ PLA has been used for 3D printing.
 | 15  | **Total**                          |                               | **84.7 euros** |
 | 16  | **Working hours**                  | Upmost 2 hours of Assembly    |             |
 
-### Examples
+### Code Scripts - Examples
 - Example actuation codes are in the "Servo.py" file.
 - For Arduino Nano, the code is in the "sketch_dec16b.ino" file.
 
