@@ -1,4 +1,7 @@
-PLA has been used for 3D printing
+# 3D Printed Hand Assembly
+
+PLA has been used for 3D printing.
+
 ### Hand Assembly
 - Assembly Hand v18.stl: Hand Assembly
 
@@ -29,17 +32,24 @@ PLA has been used for 3D printing
 - PTFE tubes must go through the holes inside the palm and exit from the bottom of the palm to the forearm part. Then, the thumb assembly must be connected, and after that, the motor's shell can be assembled. PTFE tubes are glued to the motor's shell, and strings are connected to the same point of motors in "Figure Copy v2.stl".
 
 ### Cost Breakdown
-| Row | Material       | Cost      |
-|-----|----------------|-----------|
-| 1   | PLA            | 4 euros   |
-| 2   | Servo motors   | 18.2 euros|
-| 3   | Arduino Nano   | 25 euros  |
-| 4   | PTFE tube      | 5 euros   |
-| 5   | Silicone tube  | 7.5 euros |
-| 6   | Bearings       | 15 euros  |
-| 7   | 3D printing    | 10 euros  |
-| 8   | **Total**      | **84.7 euros** |
-| 9   | **Working hours** | **Upmost 2 hours of Assembly** |
+| Row | Material                           | Amount                        | Cost        |
+|-----|------------------------------------|-------------------------------|-------------|
+| 1   | PLA                                | 148.26 grams (without supports)| 4 euros     |
+| 2   | Servo motors with motor gears (MG90S) | 7                             | 18.2 euros  |
+| 3   | M2 bearing                         | 18                            | -           |
+| 4   | M2 screw                           | 19                            | -           |
+| 5   | M2.5 screw                         | 7                             | -           |
+| 6   | M5 screw                           | 2                             | -           |
+| 7   | M6 screw                           | 1                             | -           |
+| 8   | Arduino Nano                       | 1                             | 25 euros    |
+| 9   | PTFE tube                          | 2 m                           | 5 euros     |
+| 10  | Silicone tube                      | 2 m                           | 7.5 euros   |
+| 11  | Bearings                           | 19                            | 15 euros    |
+| 12  | 3D printing                        | -                             | 10 euros    |
+| 13  | Assembling                         | Upmost 2 hours                | -           |
+| 14  | ASA                                | 2 g                           | -           |
+|     | **Total**                          |                               | **84.7 euros** |
+|     | **Working hours**                  | Upmost 2 hours of Assembly    |             |
 
 ### Examples
 - Example actuation codes are in the "Servo.py" file.
@@ -48,5 +58,5 @@ PLA has been used for 3D printing
 Refer to the images "image.png" and "image2 (2).jpeg" for visual guidance.
 
 
-
+Author
 Elchin Huseynov
