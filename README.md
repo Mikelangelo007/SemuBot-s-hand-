@@ -1,4 +1,4 @@
-# 3D Printed Hand Assembly
+# SemuBot's 3D Printed Hand Assembly
 
 PLA has been used for 3D printing.
 
