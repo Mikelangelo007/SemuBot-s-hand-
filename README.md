@@ -48,8 +48,8 @@ PLA has been used for 3D printing.
 | 12  | 3D printing                        | -                             | 10 euros    |
 | 13  | Assembling                         | Upmost 2 hours                | -           |
 | 14  | ASA                                | 2 g                           | -           |
-| 15  | **Total**                          |                               | **84.7 euros** |
-| 16  | **Working hours**                  | Upmost 2 hours of Assembly    |             |
+| 15  | **Total**                          | -                             | **84.7 euros** |
+| 16  | **Working hours**                  | Upmost 2 hours of Assembly    | -           |
 
 # Code Scripts - Examples
 - Example actuation codes are in the "Servo.py" file.
